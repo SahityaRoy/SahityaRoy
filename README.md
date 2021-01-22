@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i love to listen and use it in my life
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sahitya's=contribs,prs)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sahitya's)](https://github.com/anuraghazra/github-readme-stats)
