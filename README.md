@@ -6,6 +6,12 @@
 i am sahitya roy currently pursuing Btech CSE from IEM-UEM . I love to develop some apps and website , i like to learn new things and i have a u tube channel where i teach programming . i develop lots of stuffs through programming . 
 " Become a programmer Lose your brain's virginity "
 
+## Skills and Experiences 
+* ⚛
+*📱
+*👩‍💻
+*💻 HTML , CSS , JS , BOOTSTRAP
+
 Skills: JAVA / C / C++ / PYTHON / JS / HTML / CSS / ANDRIOD /
 
 
