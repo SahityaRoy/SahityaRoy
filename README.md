@@ -1,50 +1,41 @@
-### Hi there This is Sahitya Roy Welcome to my World Printf("HELLO WORLD"); 👋
-### Hi there 👋, My name is Sahitya Roy
-#### Design & Development 
-![Design & Development ](https://sahityaroy.github.io/SahityaRoyProyfolio/)
+<h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
+<h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from University Of Engineering and management , Jaipur.</h3>
 
-i am sahitya roy currently pursuing Btech CSE from IEM-UEM . I love to develop some apps and website , i like to learn new things and i have a u tube channel where i teach programming . i develop lots of stuffs through programming . " Become a programmer Lose your brain's virginity "
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahityaroy" alt="sahityaroy" /></a> </p>
 
-Skills: C / C++ / JAVA / PYTHON / JS / HTML / CSS
+<p align="left"> <a href="https://twitter.com/sahityaroy07" target="blank"><img src="https://img.shields.io/twitter/follow/sahityaroy07?logo=twitter&style=for-the-badge" alt="sahityaroy07" /></a> </p>
 
+- 🔭 I’m currently working on **DSA**
 
-## Skills and Experiences 
-* ⚛
-*📱
-*👩‍💻
-*💻 HTML , CSS , JS , BOOTSTRAP
+- 🌱 I’m currently learning **Andriod, DSA in java , Web development**
 
+- 👯 I’m looking to collaborate on **CFC**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahityaRoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahitya-roy-244b941a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sahitya_roy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15022421/sahitya-roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/youtube.com/SahityaRoyCreation)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](youtube.com/SahityaRoyCreation)  
+- 👨‍💻 All of my projects are available at [https://sahityaroy.github.io/SahityaRoyProyfolio/](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📝 I regularly write articles on [https://www.linkedin.com/in/sahitya-roy/](https://www.linkedin.com/in/sahitya-roy/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SahityaRoy)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **Programming and design related doubt**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahityaRoy)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **https://twitter.com/SahityaRoy07**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahityaRoy&show_icons=true&count_private=true)  
+- 📄 Know about my experiences [https://sahityaroy.github.io/SahityaRoyProyfolio/](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
-![GitHub metrics](https://metrics.lecoq.io/SahityaRoy)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sahityaroy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sahityaroy07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahitya-roy-244b941a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sahitya-roy-244b941a2/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sahitya roy creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="sahitya roy creation" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahityaRoy)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/SahityaRoy)  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/7584926589"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7584926589" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahityaroy&show_icons=true&locale=en&layout=compact" alt="sahityaroy" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahityaroy&show_icons=true&locale=en" alt="sahityaroy" /></p>
 
-
-
-
-- 🔭 I’m currently working on Github
-- 🌱 I’m currently learning Andriod Development
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with Developer
-- 💬 Ask me about Programming Languages and tech related things 
-- 📫 How to reach me: LinkeDin . @SahityaRoy
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i love to listen and use it in my life
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SahityaRoy)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahityaroy&" alt="sahityaroy" /></p>
