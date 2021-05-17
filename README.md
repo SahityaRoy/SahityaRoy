@@ -1,7 +1,7 @@
 ### Hi there This is Sahitya Roy Welcome to my World Printf("HELLO WORLD"); 👋
 ### Hi there 👋, My name is Sahitya Roy
 #### Design & Development 
-![Design & Development ](https://media-exp1.licdn.com/dms/image/C5616AQEpvsTyzgiiNQ/profile-displaybackgroundimage-shrink_350_1400/0/1611416495037?e=1625097600&v=beta&t=7xdUgb-pNMFsBWMf2eaXwxHPXfrS-53LN-UCDIuxe28)
+![Design & Development ](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
 i am sahitya roy currently pursuing Btech CSE from IEM-UEM . I love to develop some apps and website , i like to learn new things and i have a u tube channel where i teach programming . i develop lots of stuffs through programming . " Become a programmer Lose your brain's virginity "
 
