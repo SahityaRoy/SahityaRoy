@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Founder-Of-Eduhub-International-Community"/>
+</p>
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from University Of Engineering and management , Jaipur.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahityaroy" alt="sahityaroy" /></a> </p>
