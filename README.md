@@ -27,9 +27,13 @@
 
 - 📄 Know about my experiences [https://sahityaroy.github.io/SahityaRoyProyfolio/](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
+[![Sahitya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahityaRoy&theme=xcode)](https://git.io/SahityaRoy)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFK5UqgVb7CqQ/profile-displayphoto-shrink_400_400/0/1621068294371?e=1630540800&v=beta&t=rgRANljo1FJ_yhpHW5qvbuB5SbD5xqPGglnL-CWUte4" width=150px height=150px /></a> 
+  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEYBGYcnAE7Ug/profile-displayphoto-shrink_400_400/0/1624942139886?e=1632960000&v=beta&t=ZWCRX9YfHKDGkLQVDWYkYsnWqnfbdO2r_-tCN_hb9BA" width=150px height=150px /></a> 
     
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,6 +44,17 @@
 
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+
+## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 
 
