@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahityaroy07" target="blank"><img src="https://img.shields.io/twitter/follow/sahityaroy07?logo=twitter&style=for-the-badge" alt="sahityaroy07" /></a> </p>
 <p><a href="https://www.buymeacoffee.com/sahityaroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7584926589" /></a></p><br><br>
-<p align="left"> <a href="https://www.linkedin.com/in/sahitya-roy/" target="blank"><img src="https://rvtechnologies.com/wp-content/uploads/2020/03/mobile_app-1.jpg" alt="sahitya-roy" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sahitya-roy/" target="blank"><img src="https://j.gifs.com/YE6OJA.gif" alt="sahitya-roy" /></a> </p>
 
 - 🔭 I’m currently working on **DSA**
 
