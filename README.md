@@ -1,4 +1,5 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGIvsmODGCl-A/profile-displaybackgroundimage-shrink_350_1400/0/1630816853427?e=1637193600&v=beta&t=TlW980qLA7izs-D0RMbiGF2xDRh1JG8F5Dt0sfPrGJc)](https://www.linkedin.com/in/sahitya-roy-244b941a2/)
+
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
@@ -21,7 +22,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sahitya-roy/)
 
-- 💬 Ask me about **Programming and design  Community Bonding**
+- 💬 Ask me about **Programming and design Community Bonding**
 
 - 📫 How to reach me: **[Twitter](https://twitter.com/SahityaRoy07)**
 
