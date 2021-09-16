@@ -1,10 +1,19 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGIvsmODGCl-A/profile-displaybackgroundimage-shrink_350_1400/0/1630816853427?e=1637193600&v=beta&t=TlW980qLA7izs-D0RMbiGF2xDRh1JG8F5Dt0sfPrGJc)](https://www.linkedin.com/in/sahitya-roy-244b941a2/)
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
+
+<p align="center">I believe in Learning in public & Open Source is for EVERYONE, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
+
+<p align="center"><b>Join our inclusive community <a href="https://eduhubcommunity.tech">**EduHub Community**</a>!</b> Where we believe Collaboration and grow together</p>
+
+<p align="center">Sign up to Our community <a href="https://www.linkedin.com/company/eduhub-community/">Linkedin Page</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
+
+<p align="center">In recent years, I learn a lot more things coming from a non-tech background i learn many programming language (basic) and build my own community and it's a govt registered community where we will learn and grow together, apart from this i am learning Data Structure and also full stack development.</p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Student-Community"/>
 </p>
+
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahityaroy" alt="sahityaroy" /></a> </p>
