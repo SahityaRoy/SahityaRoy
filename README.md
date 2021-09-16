@@ -4,7 +4,7 @@
 
 <p align="center">I believe Learning in public & Open Source is for EVERYONE, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
-<p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community<i><b></p>
+<p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community</i><b></p>
 
 <p align="center"><b>Join our inclusive community <a href="https://eduhubcommunity.tech">**EduHub Community**</a>!</b> Where we believe Collaboration and grow together</p>
 
