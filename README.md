@@ -27,6 +27,10 @@
 
 - 📄 Know about my experiences in my [Portfolio](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
+
+
+![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 [![Sahitya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SahityaRoy&theme=xcode)](https://git.io/SahityaRoy)
 
 
