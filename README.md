@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 
-<p align="center">I believe in Learning in public & Open Source is for EVERYONE, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
+<p align="center">I believe Learning in public & Open Source is for EVERYONE, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
+
+<p align="center"><b> Building India's Larges Student Commuinity Eduhub Community<b></p>
 
 <p align="center"><b>Join our inclusive community <a href="https://eduhubcommunity.tech">**EduHub Community**</a>!</b> Where we believe Collaboration and grow together</p>
 
@@ -11,7 +13,7 @@
 <p align="center">In recent years, I learn a lot more things coming from a non-tech background i learn many programming language (basic) and build my own community and it's a govt registered community where we will learn and grow together, apart from this i am learning Data Structure and also full stack development.</p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Student-Community"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/>
 </p>
 
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
