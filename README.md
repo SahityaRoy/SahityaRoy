@@ -1,7 +1,8 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGIvsmODGCl-A/profile-displaybackgroundimage-shrink_350_1400/0/1630816853427?e=1637193600&v=beta&t=TlW980qLA7izs-D0RMbiGF2xDRh1JG8F5Dt0sfPrGJc)](https://www.linkedin.com/in/sahitya-roy-244b941a2/)
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Founder-Of-Eduhub-International-Community"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Student-Community"/>
 </p>
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
 
@@ -9,19 +10,18 @@
 
 <p align="left"> <a href="https://twitter.com/sahityaroy07" target="blank"><img src="https://img.shields.io/twitter/follow/sahityaroy07?logo=twitter&style=for-the-badge" alt="sahityaroy07" /></a> </p>
 <p><a href="https://www.buymeacoffee.com/sahityaroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7584926589" /></a></p><br><br>
-<p align="left"> <a href="https://www.linkedin.com/in/sahitya-roy/" target="blank"><img src="https://j.gifs.com/YE6OJA.gif" alt="sahitya-roy" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **DSA** **ommunity Building**
 
 - 🌱 I’m currently learning **Andriod, DSA in java , Web development**
 
-- 👯 I’m looking to collaborate on **CFC**
+- 👯 I’m Working with **Eduhub Community**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sahitya-roy/)
 
-- 💬 Ask me about **Programming and design related doubt**
+- 💬 Ask me about **Programming and design  Community Bonding**
 
 - 📫 How to reach me: **[Twitter](https://twitter.com/SahityaRoy07)**
 
@@ -66,3 +66,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sahityaroy&show_icons=true&locale=en" alt="sahityaroy" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahityaroy&" alt="sahityaroy" />
+
+| ![Jokes Card](https://readme-jokes.vercel.app/api) |
