@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGIvsmODGCl-A/profile-displaybackgroundimage-shrink_350_1400/0/1630816853427?e=1637193600&v=beta&t=TlW980qLA7izs-D0RMbiGF2xDRh1JG8F5Dt0sfPrGJc)](https://www.linkedin.com/in/sahitya-roy-244b941a2/)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHznsrlNanzfA/profile-displaybackgroundimage-shrink_350_1400/0/1631892326431?e=1637193600&v=beta&t=TKQOVksWdAuhlh70C-OOwRDV_yo_dcktlg8NnhpEZdE)
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 
