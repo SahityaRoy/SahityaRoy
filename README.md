@@ -45,7 +45,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGF-m4uKkuFbA/profile-displayphoto-shrink_400_400/0/1630910473867?e=1637193600&v=beta&t=7uzyzhYHB66eT_AZ8SmhaBDnm9u5xnANxzg1Gs8E8ns" width=150px height=150px /></a> 
+  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEKl_RxkV5Uag/profile-displayphoto-shrink_400_400/0/1634388482164?e=1642636800&v=beta&t=slVkSIIT1M2nzE7NijSaCeBsaqG4pBLhHzNok_PqGSs" width=150px height=150px /></a> 
     
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
