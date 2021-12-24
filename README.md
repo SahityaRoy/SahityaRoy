@@ -17,6 +17,15 @@
 </p>
 
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
+   
+   ### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Microsoft Engage Mentorship Program  - Podcast Interview Session ](https://youtu.be/jgzvS44Tz90)
+- [All About Open Source- Hacktoberfest ](https://youtu.be/pkM0cMKQYbQ)
+- [Open Source Cafe with Eduhub Community](https://youtu.be/v7CUYVF7lXc)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahityaroy" alt="sahityaroy" /></a> </p>
 
