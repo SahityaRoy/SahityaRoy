@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQERgnIMqCw2cw/profile-displaybackgroundimage-shrink_350_1400/0/1634467373344?e=1640217600&v=beta&t=JvB_vKcFiXokhNCrYff-YTCkEK0olmncEdBiSvGpJwE)
+![](https://media-exp1.licdn.com/dms/image/C5616AQERgnIMqCw2cw/profile-displaybackgroundimage-shrink_350_1400/0/1634467373344?e=1646265600&v=beta&t=nJtU58MCU_FlAdTX6A_vUrBrOZuO_3nqrVAPijhQevY)
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 
