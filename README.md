@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 
-<p align="center">I believe Learning in public & Open Source is for EVERYONE, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
+<p align="center">I believe Learning in public, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
 <p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community</i><b></p>
 
@@ -10,7 +10,8 @@
 
 <p align="center">Sign up to Our community <a href="https://www.linkedin.com/company/eduhub-community/">Linkedin Page</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
-<p align="center">In recent years, I learn a lot more things coming from a non-tech background i learn many programming language (basic) and build my own community and it's a govt registered community where we will learn and grow together, apart from this i am learning Data Structure and also full stack development.</p>
+<p align="center">Building India's largest community | Co-Founder EduhubCommunity.tech| 1k Subscriber on Youtube | Keynote Speaker 10+ Events | Open Source enthusiast || Microsoft Az-Dev Lead || Community Enthusiast
+Talks about #learning, #community, #hackathon, #internship</p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Sahitya-Roy"/>
     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/>
@@ -54,7 +55,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEKl_RxkV5Uag/profile-displayphoto-shrink_400_400/0/1634388482164?e=1642636800&v=beta&t=slVkSIIT1M2nzE7NijSaCeBsaqG4pBLhHzNok_PqGSs" width=150px height=150px /></a> 
+  <a href="https://github.com/SahityaRoy"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHHwlO2nQgpDA/profile-displayphoto-shrink_400_400/0/1645194230371?e=1650499200&v=beta&t=gEvxHnyGkZ-hsHnvYG5TR5fi-0fcdwy6g7h7vVZODPg" width=150px height=150px /></a> 
     
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
