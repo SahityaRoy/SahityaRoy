@@ -60,11 +60,22 @@ Talks about #learning, #community, #hackathon, #internship</p>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/SahityaRoy07"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sahitya.roy@uem.edu.in?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:29roysonu@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://SahityaRoy.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+   
+   ### My Latest Badges & Achivements 🎉 
+
+<p align="center">
+<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt=" "width="70" ><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
+  <img align="center"  src="https://user-images.githubusercontent.com/83803180/150681989-bbd7b24f-d72a-4299-a571-e221d0059c36.png" alt=" "width="120" ><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span>
+</p>
+
+
+<hr>
+<table align="center"><tr ><td valign="top" width="50%">
 
 ## ⚡ Technologies
 
