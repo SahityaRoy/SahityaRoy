@@ -55,7 +55,7 @@ Talks about #learning, #community, #hackathon, #internship</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="![image](https://user-images.githubusercontent.com/72821604/180235005-57d6e050-5d97-4e23-b846-a312c5792001.png)
+  <a href="https://github.com/SahityaRoy"><img src="![image](https://media-exp1.licdn.com/dms/image/C4D03AQGTHk7ETGBe1A/profile-displayphoto-shrink_400_400/0/1656243893194?e=1667433600&v=beta&t=TI0G4VOAn0zQk6cEP7fpVBHzYKkorqjSsrs42OQ9qPA)
 " width=150px height=150px /></a> 
     
 <p align="center">
