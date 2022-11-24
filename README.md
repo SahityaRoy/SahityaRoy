@@ -4,6 +4,8 @@
 
 <p align="center">I believe Learning in public, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
+<h1 align="center">Hi 👋, I'm Looking For Developer Relation/Advocate, Community Manager role</h1>
+
 <p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community</i><b></p>
 
 <p align="center"><b>Join our inclusive community <a href="https://eduhubcommunity.tech">**EduHub Community**</a>!</b> Where we believe Collaboration and grow together</p>
@@ -54,14 +56,14 @@ Talks about #learning, #community, #hackathon, #internship</p>
 [![Sahitya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SahityaRoy&theme=xcode)](https://git.io/SahityaRoy)
 
 <h3 align="left">Connect with me</h3>
+
 <p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="![image](https://media-exp1.licdn.com/dms/image/C4D03AQGTHk7ETGBe1A/profile-displayphoto-shrink_400_400/0/1656243893194?e=1667433600&v=beta&t=TI0G4VOAn0zQk6cEP7fpVBHzYKkorqjSsrs42OQ9qPA)
-" width=150px height=150px /></a> 
+  <a href="https://github.com/SahityaRoy"><img src="https://avatars.githubusercontent.com/u/72821604?v=4" width=150px height=150px /></a> 
     
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/SahityaRoy07"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:29roysonu@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahitya.roy@uem.edu.in?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://SahityaRoy.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -70,7 +72,7 @@ Talks about #learning, #community, #hackathon, #internship</p>
    ### My Latest Badges & Achivements 🎉 
 
 <p align="center">
-<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt=" "width="70" ><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
+<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt=" "width="70" ><span class="hidden capitalize lg:inline">Hacktoberfest-2022</span>
   <img align="center"  src="https://user-images.githubusercontent.com/83803180/150681989-bbd7b24f-d72a-4299-a571-e221d0059c36.png" alt=" "width="120" ><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span>
 </p>
 
