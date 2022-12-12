@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
 
-<p align="center">I believe Learning in public, Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
+<p align="center">I believe Learning in public Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
 <h1 align="center">I'm Looking For Developer Relation/Advocate, Community Manager role, hosting web3.0 event across India</h1>
 
