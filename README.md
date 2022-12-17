@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQERgnIMqCw2cw/profile-displaybackgroundimage-shrink_350_1400/0/1634467373344?e=1646265600&v=beta&t=nJtU58MCU_FlAdTX6A_vUrBrOZuO_3nqrVAPijhQevY)
 
-<h1 align="center">Hi 👋, I'm Sahitya Roy</h1>
+<h1 align="center">Hi 👋 I'm Sahitya Roy</h1>
 
 <p align="center">I believe Learning in public Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
