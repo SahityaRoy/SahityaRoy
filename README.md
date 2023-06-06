@@ -4,7 +4,7 @@
 
 <p align="center">I believe Learning in public Join me on my <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug">YouTube channel</a> so that you can watch my tutorial videos 👩‍💻🙌</p>
 
-<h1 align="center">I'm Looking For Developer Relation/Advocate, Community Manager role</h1>
+<h1 align="center">I'm Looking For Developer Relation/Advocate, Community Manager role.</h1>
 
 <p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community</i><b></p>
 
