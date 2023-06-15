@@ -35,9 +35,9 @@ Talks about #learning, #community, #hackathon, #internship</p>
 <p align="left"> <a href="https://twitter.com/sahityaroy07" target="blank"><img src="https://img.shields.io/twitter/follow/sahityaroy07?logo=twitter&style=for-the-badge" alt="sahityaroy07" /></a> </p>
 <p><a href="https://www.buymeacoffee.com/sahityaroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7584926589" /></a></p><br><br>
 
-- 🔭 I’m currently working on **DSA** **ommunity Building**
+- 🔭 I’m currently working on **Web3** **Community Building**
 
-- 🌱 I’m currently learning **Andriod, DSA in java , Web development**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m Working with **Eduhub Community**
 
