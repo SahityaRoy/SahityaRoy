@@ -39,7 +39,7 @@ Talks about #learning, #community, #hackathon, #internship</p>
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m Working with **Eduhub Community**
+- 👯 I’m Working with **Eduhub Community** **Dapps.co**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://sahityaroy.github.io/SahityaRoyProyfolio/)
 
