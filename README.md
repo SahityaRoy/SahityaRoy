@@ -20,6 +20,8 @@ Talks about #learning, #community, #hackathon, #internship</p>
 </p>
 
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
+
+[![SahityaRoy's GitHub | Languages Over Time](https://stats.quine.sh/SahityaRoy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SahityaRoy)
    
    ### Latest YouTube videos
 
