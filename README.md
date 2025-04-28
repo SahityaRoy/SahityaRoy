@@ -6,9 +6,8 @@
 
 <h1 align="center">I develop software, build technical communities, create content and love meeting new people!</h1>
 
-<p align="center"><b> Building India's Largest Student Commuinity <i>Eduhub Community</i><b></p>
+<p align="center"><b> Building India's Largest Student Commuinity <i></i><b></p>
 
-<p align="center"><b>Join our community <a href="https://eduhubcommunity.tech">**EduHub Community**</a>!</b> Where we believe Collaboration and grow together</p>
 
 <p align="center">Sign up to Our community <a href="https://www.linkedin.com/company/eduhub-community/">Linkedin Page</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
